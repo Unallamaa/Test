@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<head>First attempt</head>
+<body>
+<h1>Hi!</h1>
+<p>This is my first time attempting to code from scratch. I've used tutorials before but this time i'm going off my limited basic knowledge</p>
+<div>
+<h2>This is another heading</h2>
+<p>I'm really trying to mess around with all of the different elements I know like <em>italicizing</em> or <strong>bolding</strong> words.</p>
+</div>
+<div>
+<h2>Media</h2>
+<img src=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXTmSwA5WnE3pJ6572IxTOIo0JjYW5fkRHrQ&s/>
+<video src="https://content.codecademy.com/courses/freelance-1/unit-1/lesson-2/htmlcss1-vid_brown-bear.mp4" width="320" height="240" controls>No video for you</video>
+</div>
+  <p>I can also do <br> line breaks <br> and links, like the one below that takes you to my cashapp</p>
+  <a href=
+</body>
